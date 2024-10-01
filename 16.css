@@ -10,3 +10,9 @@ body{
      background-color: #fafafa; 
      borde-radius:10px; 
      box-shadow: 2px, 5px, 
+     width: 400px; 
+     max-width:100% ;
+     overflow:hidden ;
+     padding: 20px; 
+     
+     
